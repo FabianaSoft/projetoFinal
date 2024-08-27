@@ -1,10 +1,11 @@
+
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <h1>Projeto Final</h1>
+      <h1 className='bg-orange-400'>Projeto Final 2</h1>
     </>
   )
 }
